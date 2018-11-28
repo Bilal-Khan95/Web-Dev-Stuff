@@ -1,0 +1,16 @@
+h1, h2, p, nav ul li a{
+    font-family: arial;
+    color: orange;
+    background: darkblue;
+    padding: 5px;
+    width: 150px;
+    border: 1px solid orange;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+nav ul {
+    list-style: none;
+}

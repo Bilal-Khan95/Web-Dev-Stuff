@@ -1,0 +1,26 @@
+nav ul {
+    background: darkblue;
+    list-style: none;
+    padding-left: 0;
+    width: 300px;
+    border: 1px solid orange;
+}
+
+nav ul li{
+    border-bottom: 1PX SOLID orange;
+    padding: 5px;
+}
+
+nav ul li:last-child{
+    border-bottom: none;
+}
+
+nav ul li a {
+    font-family: arial;
+    color: orange;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
